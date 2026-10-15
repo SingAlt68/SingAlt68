@@ -1,5 +1,3 @@
-snakecommit.gif
-
 # haiiiiiiiiiiiiiiii
 
 **I am the dev and owner of Singularity**
